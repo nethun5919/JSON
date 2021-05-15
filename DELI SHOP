@@ -1,1 +1,84 @@
 
+
+{
+    
+    "Cold Sandwitchs": [
+        {
+           "name": "Turkey Club",
+           "ingredients": ["bread", "turkey","cheese","mayonnaise","lettice", "tomatos"],
+           "Description": "cold turkey sandwich"
+        },
+
+       { 
+           "name": "Chicken Ceaser Wrap",
+           "ingredients": ["Chicken","Tortillas", "Ceaser salad dressing", "romaine","parmesn cheese"],
+           "Description": "cold sandwitch wrap"
+       }
+]
+},
+          {
+              "Appetizers":[
+                {
+                    "name": "Mozzerlla cheese sticks",
+                    "ingredients":["mozzarella", "bread crumbs", "herbs"],
+                    "Description": "appitizer"
+                
+ },  
+    {
+        "name": "Chicken Strips",
+        "ingredients":["Chicken breast tenders", "flour", "herbs"],
+        "Description": "appitizer"
+    },
+
+    {
+         "Hot Sandwitchs":[
+           {
+               "name":"Sausage and Pepper Heroes",
+        "ingredients": ["Red bell peppers", "Italian Sausges","Buns"],
+        "Description": "hot sandwichs"
+       },
+    
+{
+    "name":"Hot Ham And Cheese Sandwiches With Bacon",
+    "ingredients": ["Hamburger", "Cheese","Buns", "Bacon"],
+    "Description": "Hot sandwitch"
+},
+
+{
+"desserts":[
+    {
+    "name":"Chocolate Brownies".,
+    "ingredients": ["dark chocolate chips", "plain flour","brown sugar", "cocoa powder"],
+    "Description": "desserts"
+    },
+    {
+        "name":"Mango ice crream",
+        "ingredients": ["Mango", "Milk", "condensed milk"],
+        "Description": "desserts" 
+    }
+]
+
+}
+{
+    "drinks":[
+        {
+                "name":"sweet ice tea",
+                "ingredients":["tea bags", "sugar"],
+                "descriprion":"cold drinks"
+        },
+        {
+            "name":"Soda",
+            "ingredients":["Carbonated waterr", "high fructose corn syrup and/or sucrose","caramel color, phosphoric acid, natural flavors, caffeine."],
+            "descriprion":"cold drinks"
+
+        }
+    
+
+ 
+
+        
+        
+        
+        
+        
+          
