@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<head>
+  
+</head>
+<body>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.0/axios.min.js"></script>
+   <script src = "axios_todo1.js"async defer></script>
+   <script src="todo_list.css"></script>
+   </html>
+   
+   axios.get('http://api.bryanuniversity.edu/ursula1/list/')
 
+.then(response => {
+    console.log(response.data)
+for( let i= 0; i<response.data.length; i++){
+    const h1 = document.createElement('h1')
+    h1.textContent = response.data[i].name
+    document.body.appendChild(h1)
+}
+})
+.catch(error => (error))
+
+li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+   }
